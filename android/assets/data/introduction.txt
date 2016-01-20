@@ -1,0 +1,37 @@
+﻿
+   Blind Chess, also known as
+Banqi(盲棋), is a two-player Chinese
+ board game played on a 4x8 grid.
+ Chinese Chess Pieces are used and
+ they are ranked as follows:
+ (from highest rank to lowest)
+
+		  1p 2p
+	King:	  帥  將
+	Rook:	  俥  車
+	Knight:   傌  馬
+	Catapult: 炮  砲
+	Retainer: 仕  士
+	Minister: 相  象
+	Pawn:	  兵  卒
+
+ Higher ranked pieces capture the
+ lower ones with the exception of
+ Pawn can capture King while King
+ can capture any pieces except Pawn. 
+ Player One is Red. Player Two is
+ Blue. Alternatively, players take
+ turns to move a piece, uncover a
+ piece, or *capture an opposing
+ piece.
+
+ Whoever side captures all the
+ other side's pieces, will win.
+
+ Another piece must be captured
+within 50 turns before the previous
+capture of a piece; otherwise, it's
+a draw game.
+
+*Opponent's piece must be uncovered
+ in order to be captured.
